@@ -15,6 +15,7 @@ while(1)
  printf("\n Bir sayi giriniz");
  gets(num);//Konsoldan giriş oku
  if(strcmp(num,"q")==0)//Girdi q ise çık
+ exit(0);
  n=atoi(num);// Sayı dönüştürme dizesi
  if(n>2)// Yanlış giriş kontrolü
   {
