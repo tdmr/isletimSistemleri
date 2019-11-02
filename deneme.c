@@ -73,3 +73,4 @@ int collatz(int i)// Fonksiyon
 
 return;
 }
+//kaynak http://ucmassignments.blogspot.com/2016/06/collatz-conjecture-using-c-programming.html
